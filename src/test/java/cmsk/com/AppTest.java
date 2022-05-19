@@ -1,4 +1,4 @@
-package common.testproject;
+package cmsk.com;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
